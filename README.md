@@ -15,7 +15,7 @@ Highly analytical graduate with a **BSc in Mathematical Sciences** and a **Highe
 
 ### 🛠️ Key Projects
 * **[FastAPI ETL Pipeline](https://github.com/alexcvega/ML-pipeline-and-API):** Real-time data processing and API deployment.
-* **[Purchase Intention Analysis](LinkToRepo):** Machine Learning model predicting consumer behavior.
+* **[Purchase Intention Analysis](https://github.com/alexcvega/purchasing-intent-data-mining):** Machine Learning model predicting consumer behavior.
 * **[Bee Network Transit Analysis](https://github.com/alexcvega/mancunian-relocation-index):** (In Progress) Analyzing Greater Manchester's transport reliability.
 
 ---
