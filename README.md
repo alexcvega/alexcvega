@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Alex! 👋
 
-<!--
-**alexcvega/alexcvega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Data Analyst | Relocating to Manchester (Aug 2026)
+Highly analytical graduate with a **BSc in Mathematical Sciences** and a **Higher Diploma in Data Analytics**. I specialize in bridging the gap between complex mathematical theory and actionable data insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Toolkit
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL (PostgreSQL, SQLite), R
+* **Engineering:** FastAPI, ETL Pipelines, Data Ingestion & Validation
+* **Visualization:** Tableau, Matplotlib, Seaborn
+* **Systems:** IBMi (AS400), Git/GitHub, Microsoft Excel
+
+---
+
+### 🛠️ Key Projects
+* **[FastAPI ETL Pipeline](LinkToRepo):** Real-time data processing and API deployment.
+* **[Purchase Intention Analysis](LinkToRepo):** Machine Learning model predicting consumer behavior.
+* **[Bee Network Transit Analysis](LinkToRepo):** (In Progress) Analyzing Greater Manchester's transport reliability.
+
+---
+
+### 📫 Connect with me:
+* **LinkedIn:** [https://www.linkedin.com/in/alex--vega/]
+* **Email:** alexcharlievega@gmail.com
