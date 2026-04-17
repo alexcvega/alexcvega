@@ -21,5 +21,5 @@ Highly analytical graduate with a **BSc in Mathematical Sciences** and a **Highe
 ---
 
 ### 📫 Connect with me:
-* **LinkedIn:** [https://www.linkedin.com/in/alex--vega/]
+* **LinkedIn:** https://www.linkedin.com/in/alex--vega/
 * **Email:** alexcharlievega@gmail.com
