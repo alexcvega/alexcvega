@@ -6,7 +6,7 @@ Highly analytical graduate with a **BSc in Mathematical Sciences** and a **Highe
 ---
 
 ### 🚀 Technical Toolkit
-* **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL (PostgreSQL, SQLite), R
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL (MySQL), R
 * **Engineering:** FastAPI, ETL Pipelines, Data Ingestion & Validation
 * **Visualization:** Tableau, Matplotlib, Seaborn
 * **Systems:** IBMi (AS400), Git/GitHub, Microsoft Excel
